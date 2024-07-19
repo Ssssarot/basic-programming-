@@ -1,1 +1,2 @@
-# basic-programming-
+.# basic-programming-
+แบบฝึกหัด นายสาโรจน์ 
