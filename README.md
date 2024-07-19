@@ -1,2 +1,3 @@
-.# basic-programming-
-แบบฝึกหัด นายสาโรจน์ 
+<<<<<<< HEAD
+# basic-programming-
+แบบฝึกหัด นายสาโรจน์
